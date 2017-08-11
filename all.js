@@ -16,6 +16,7 @@
           "star": {
             "name": "Sol",
             "description": "The sun lies at the heart of the solar system, where it is by far the largest object. It holds 99.8 percent of the solar system's mass and is roughly 109 times the diameter of the Earth — about one million Earths could fit inside the sun. The visible part of the sun is about 10,000 degrees Fahrenheit (5,500 degrees Celsius), while temperatures in the core reach more than 27 million F (15 million C), driven by nuclear reactions. One would need to explode 100 billion tons of dynamite every second to match the energy produced by the sun, according to NASA. The sun is one of more than 100 billion stars in the Milky Way. It orbits some 25,000 light-years from the galactic core, completing a revolution once every 250 million years or so. The sun is relatively young, part of a generation of stars known as Population I, which are relatively rich in elements heavier than helium. An older generation of stars is called Population II, and an earlier generation of Population III may have existed, although no members of this generation are known yet.",
+            "age": 4600000000,
             "outerTemperatureCelcius": 6000,
             "innerTemperatureCelcius": 15000000,
             // https://www.space.com/58-the-sun-formation-facts-and-characteristics.html
@@ -420,6 +421,15 @@
               "launchData": "1978-08-12",
               "organisation": "NASA"
               // https://en.wikipedia.org/wiki/Voyager_1
+            },
+            {
+              "name": "Gaofen-1",
+              "description": "Gaofen-1 (gao fen = high resolution) is the first of a series of high-resolution optical Earth observation satellites of CNSA (China National Space Administration), Beijing, China. The civilian HDEOS (High-Definition Earth Observation Satellite) program was proposed in 2006, it received government approval and was initiated in 2010. China plans to launch six HDEOS spacecraft between 2013 and 2016. 1) The main goal of the HDEOS series is to provide NRT (Near-Real-Time) observations for disaster prevention and relief, climate change monitoring, geographical mapping, environment and resource surveying, as well as for precision agriculture support. The major users of the observation data will be the Ministry of Land and Resources, Ministry of Environmental Protection, and the Ministry of Agriculture.",
+              "location": "Earth",
+              "launchData": "2013-04-26",
+              "organisation": "CNSA"
+              // https://www.google.co.uk/search?q=gaofen-1+launch+date&oq=gaofen-1+launch+date&aqs=chrome..69i57.17766j0j4&sourceid=chrome&ie=UTF-8
+              // https://directory.eoportal.org/web/eoportal/satellite-missions/g/gaofen-1
             },
           ]
         },
