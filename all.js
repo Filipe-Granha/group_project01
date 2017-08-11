@@ -15,8 +15,10 @@
 
           "star": {
             "name": "Sol",
+            "description": "The sun lies at the heart of the solar system, where it is by far the largest object. It holds 99.8 percent of the solar system's mass and is roughly 109 times the diameter of the Earth — about one million Earths could fit inside the sun. The visible part of the sun is about 10,000 degrees Fahrenheit (5,500 degrees Celsius), while temperatures in the core reach more than 27 million F (15 million C), driven by nuclear reactions. One would need to explode 100 billion tons of dynamite every second to match the energy produced by the sun, according to NASA. The sun is one of more than 100 billion stars in the Milky Way. It orbits some 25,000 light-years from the galactic core, completing a revolution once every 250 million years or so. The sun is relatively young, part of a generation of stars known as Population I, which are relatively rich in elements heavier than helium. An older generation of stars is called Population II, and an earlier generation of Population III may have existed, although no members of this generation are known yet.",
             "outerTemperatureCelcius": 6000,
             "innerTemperatureCelcius": 15000000,
+            // https://www.space.com/58-the-sun-formation-facts-and-characteristics.html
             // http://solarviews.com/eng/sun.htm
             // https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
           },
