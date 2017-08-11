@@ -409,14 +409,6 @@
               "location": "Interstellar Space",
               "launchData": "1977-09-05",
               "organisation": "NASA"
-              // https://en.wikipedia.org/wiki/Dawn_(spacecraft)
-            },
-            {
-              "name": "Voyager 1",
-              "description": "Voyager 1 is currently the farthest man-made object from Earth, as well as the first object to leave the Solar System and cross into interstellar space. As of September 2014 it lies about 129 astronomical units (AU) from the sun[5][6] (19.3 billion kilometers, or 0.002 light years), and it will not be overtaken by any other current craft. It was originally tasked with investigating Jupiter and Saturn, and the moons of these planets. Its continuing data feed offered the first direct measurements of the heliosheath and the heliopause. In August 2012, Voyager 1 became the first human built spacecraft to enter interstellar space. It is hoped that Voyager 1 will continue operating until at least 2020.",
-              "location": "Interstellar Space",
-              "launchData": "1977-09-05",
-              "organisation": "NASA"
               // https://en.wikipedia.org/wiki/Voyager_1
             },
             {
